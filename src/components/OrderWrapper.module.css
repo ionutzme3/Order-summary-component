@@ -1,0 +1,14 @@
+.order-wrapper {
+    padding: 3rem;
+}
+
+
+.cancel {
+    font-weight: 900;
+    font-size: 0.9375rem;
+    color: #717fa6;
+}
+.cancel:hover {
+    color: #1f2e55;
+    cursor: pointer;
+}

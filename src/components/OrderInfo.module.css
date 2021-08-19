@@ -1,0 +1,40 @@
+.order-info {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    border-radius: 0.6875rem;
+    background: #f7f9ff;
+    padding: 1.5625rem 1.5rem;
+    margin-top: 1.5625rem;
+    margin-bottom: 2rem;
+    gap: 1.25rem;
+}
+.order-text h2, 
+.order-text p {
+    text-align: left;
+}
+
+.order-text h2 {
+    font-weight: 900;
+    font-size: 1rem;
+    line-height: 1.3125rem;
+    color: #1f2e55;
+}
+.order-text p {
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.3125rem;
+    color: #717fa6;
+    margin: 0;
+}
+.order-info a {
+    margin-left: auto;
+    font-weight: bold;
+    font-size: 0.875rem;
+    line-height: 1.1875rem;
+    color: #382ae1;
+    font-family: "Red Hat Display";
+}
+.order-info a:hover {
+    color: #766cf1;
+}

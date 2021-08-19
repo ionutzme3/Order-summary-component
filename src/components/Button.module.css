@@ -1,0 +1,20 @@
+.order-summary {
+  width: 100%;
+  border: 1px solid #382ae1;
+  background: #382ae1;
+  border-radius: 11px;
+  box-shadow: 0 1.25rem 1.75rem rgba(56, 42, 225, 0.190291);
+  color: #fff;
+  line-height: 1.25rem;
+  font-weight: 900;
+  font-size: 0.9375rem;
+  font-family: "Red Hat Display";
+  padding: 0.9375rem 0;
+  text-align: center;
+  margin-bottom: 32px;
+  cursor: pointer;
+}
+.order-summary:hover {
+  border: 1px solid #766cf1;
+  background: #766cf1;
+}
